@@ -8,3 +8,5 @@
 Add text local 
 
 Add text in new branch (new_branch_01)
+
+Conflict_sit
